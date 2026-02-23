@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "chretien",
+    "name": "Jean Chrétien",
+    "party": "Liberal",
+    "party_colour": "#D71920",
+    "headshot_url": null,
+    "start_date": "1993-11-04",
+    "end_date": "2003-12-12",
+    "years_label": "1993–2003"
+  },
+  {
+    "slug": "martin",
+    "name": "Paul Martin",
+    "party": "Liberal",
+    "party_colour": "#D71920",
+    "headshot_url": null,
+    "start_date": "2003-12-12",
+    "end_date": "2006-02-06",
+    "years_label": "2003–2006"
+  },
+  {
+    "slug": "harper",
+    "name": "Stephen Harper",
+    "party": "Conservative",
+    "party_colour": "#1A4782",
+    "headshot_url": null,
+    "start_date": "2006-02-06",
+    "end_date": "2015-11-04",
+    "years_label": "2006–2015"
+  },
+  {
+    "slug": "trudeau",
+    "name": "Justin Trudeau",
+    "party": "Liberal",
+    "party_colour": "#D71920",
+    "headshot_url": null,
+    "start_date": "2015-11-04",
+    "end_date": "2025-03-14",
+    "years_label": "2015–2025"
+  },
+  {
+    "slug": "carney",
+    "name": "Mark Carney",
+    "party": "Liberal",
+    "party_colour": "#D71920",
+    "headshot_url": null,
+    "start_date": "2025-03-14",
+    "end_date": null,
+    "years_label": "2025–"
+  }
+]
